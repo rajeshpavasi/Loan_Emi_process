@@ -12,13 +12,15 @@ steps to run the project
 2. seed the data using artisan command(php artisan db:seed)
 3. run the project with 'php artisan serve' and open new CMD for 'npm run dev'
 
-login to the project:
+login to the project
+
  username: developer
+ 
  password: Test@Password123#
 
  if you want to register then you can also register when click on the register link
  
-
+ for the refence SQL file also included in to the project folder
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
