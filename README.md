@@ -6,10 +6,11 @@ steps to configure the project
 2. config/check the DB details
 3. update the composer
 
-steps to run the project:
-1.Run the migrations using artisan command(php artisan migrate)
-2.seed the data using artisan command(php artisan db:seed)
-3.run the project with 'php artisan serve' and open new CMD for 'npm run dev'
+steps to run the project
+
+1. Run the migrations using artisan command(php artisan migrate)
+2. seed the data using artisan command(php artisan db:seed)
+3. run the project with 'php artisan serve' and open new CMD for 'npm run dev'
 
 login to the project:
  username: developer
